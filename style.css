@@ -1,0 +1,49 @@
+.navbar-brand{
+    font-size: 30px !important;
+    font-weight: bolder;
+}
+
+.nav-link {
+    color: white;
+}
+
+.hero-container{
+    text-align: center;
+    align-content: center;
+}
+
+.hero-container h1{
+    text-decoration: underline;
+}
+
+.mid-container{
+    text-align: center;
+}
+
+.mid-container p{
+    text-align: left;
+}
+
+.mid-container ul{
+    text-align: center;
+    display: inline-block;
+}
+
+.work-container{
+    text-align: center;
+    align-items: center;
+}
+
+.bottom{
+    background-color: gray;
+    padding: 10px 0px 10px;
+}
+
+.bottom li{
+    font-size: 18px;
+}
+
+.bottom p{
+    font-size: 18px;
+}
+
